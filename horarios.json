@@ -1,0 +1,67 @@
+{
+  "horarios": [
+    {
+      "id": "colaboradores",
+      "titulo": "Horários – Colaboradores",
+      "descricao": "Horários de refeições destinados aos colaboradores",
+      "refeicoes": [
+        {
+          "id": "cafe_manha",
+          "nome": "Café da Manhã",
+          "inicio": "06:30",
+          "fim": "07:45",
+          "ativo": true
+        },
+        {
+          "id": "almoco",
+          "nome": "Almoço",
+          "inicio": "11:00",
+          "fim": "15:00",
+          "ativo": true
+        },
+        {
+          "id": "jantar",
+          "nome": "Jantar",
+          "inicio": "17:30",
+          "fim": "19:30",
+          "ativo": true
+        },
+        {
+          "id": "ceia",
+          "nome": "Ceia",
+          "inicio": "23:00",
+          "fim": "02:00",
+          "ativo": true
+        }
+      ]
+    },
+    {
+      "id": "acompanhantes",
+      "titulo": "Horários – Acompanhantes",
+      "descricao": "Horários de refeições destinados aos acompanhantes",
+      "refeicoes": [
+        {
+          "id": "desjejum",
+          "nome": "Desjejum",
+          "inicio": "06:00",
+          "fim": "06:30",
+          "ativo": true
+        },
+        {
+          "id": "almoco",
+          "nome": "Almoço",
+          "inicio": "11:00",
+          "fim": "11:30",
+          "ativo": true
+        },
+        {
+          "id": "jantar",
+          "nome": "Jantar",
+          "inicio": "17:30",
+          "fim": "18:00",
+          "ativo": true
+        }
+      ]
+    }
+  ]
+}
