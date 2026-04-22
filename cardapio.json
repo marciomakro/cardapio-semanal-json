@@ -2,7 +2,7 @@
   {
     "id": 1,
     "dia_semana": "Segunda-feira",
-    "sopa": "Minestrone",
+    "sopa": "",
     "salada_1": "Repolho roxo",
     "salada_2": "Feijão branco ao vinagrete",
     "prato_principal": "Proteina de soja gratinada",
@@ -10,12 +10,12 @@
     "guarnicao": "Mix de legumes sauté",
     "acompanhamentos": "Arroz Branco, Arroz integral, Feijão Carioca",
     "sobremesa": "Mexerica",
-    "disponivel": "não"
+    "disponivel": "sim"
   },
   {
     "id": 2,
     "dia_semana": "Terça-feira",
-    "sopa": "",
+    "sopa": "Legumes",
     "salada_1": "Acelga",
     "salada_2": "Repolhese",
     "prato_principal": "Filé de coxa e sobrecoxa",
