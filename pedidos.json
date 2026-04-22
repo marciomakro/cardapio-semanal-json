@@ -1,0 +1,23 @@
+{
+  "pedidos": {
+    "id": "solicitacao_refeicao",
+    "titulo": "Pedido de Refeição Médicos UTIs",
+    "descricao": "Horário para solicitação da refeição",
+    "ramal": "2563",
+    "link_pedido": "https://docs.google.com/forms/d/e/1FAIpQLSddH-iA86efiM2jHqwULNlX-P5XDJffCpNPuPzxH_kS1CIe7Q/viewform?vc=0&c=0&w=1",
+    "refeicoes": [
+      {
+        "id": "almoco",
+        "nome": "Almoço",
+        "horario_limite": "08:45",
+        "ativo": true
+      },
+      {
+        "id": "jantar",
+        "nome": "Jantar",
+        "horario_limite": "18:50",
+        "ativo": true
+      }
+    ]
+  }
+}
