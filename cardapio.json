@@ -10,7 +10,7 @@
     "guarnicao": "Mix de legumes sauté",
     "acompanhamentos": "Arroz Branco, Arroz integral, Feijão Carioca",
     "sobremesa": "Mexerica",
-    "disponivel": "sim"
+    "disponivel": "não"
   },
   {
     "id": 2,
@@ -22,7 +22,7 @@
     "opcao": "Ovo cozido/PTS",
     "guarnicao": "Creme de milho",
     "acompanhamentos": "Arroz Branco, Arroz integral, Feijão Preto",
-    "sobremesa": "Maçã",
+    "sobremesa": "laranja",
     "disponivel": "sim"
   },
   {
