@@ -97,7 +97,7 @@
   {
     "id": 6,
     "dia_semana": "Sábado",
-    "sopa": "ervilhas",
+    "sopa": "",
     "salada_1": "Repolho ao vinagrete",
     "salada_2": "",
     "prato_principal": "Cubos de frango acebolado",
@@ -109,7 +109,7 @@
     "ceia_salada_1":"",
     "ceia_salada_2":"",
     "ceia_sobremesa":"",
-    "ceia_sopa":"legumes",
+    "ceia_sopa":"",
     "disponivel": "sim",
     "cardapio_especial":"Dia das Mães"
   },
