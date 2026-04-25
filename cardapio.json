@@ -10,6 +10,11 @@
     "guarnicao": "Mix de legumes sauté",
     "acompanhamentos": "Arroz Branco, Arroz integral, Feijão Carioca",
     "sobremesa": "Mexerica",
+    "ceia_pao":"Pão com margarina",
+    "ceia_salada_1":"",
+    "ceia_salada_2":"",
+    "ceia_sobremesa":"",
+    "ceia_sopa":"",
     "disponivel": "sim"
   },
   {
@@ -23,6 +28,11 @@
     "guarnicao": "Creme de milho",
     "acompanhamentos": "Arroz Branco, Arroz integral, Feijão Preto",
     "sobremesa": "laranja",
+    "ceia_pao":"Pão com margarina",
+    "ceia_salada_1":"",
+    "ceia_salada_2":"",
+    "ceia_sobremesa":"",
+    "ceia_sopa":"",
     "disponivel": "sim"
   },
   {
@@ -36,6 +46,11 @@
     "guarnicao": "Macarrão ao sugo",
     "acompanhamentos": "Arroz Branco, Arroz integral, Feijão Carioca",
     "sobremesa": "Banana",
+    "ceia_pao":"Pão com margarina",
+    "ceia_salada_1":"",
+    "ceia_salada_2":"",
+    "ceia_sobremesa":"",
+    "ceia_sopa":"",
     "disponivel": "sim"
   },
   {
@@ -49,6 +64,11 @@
     "guarnicao": "Purê de batatas",
     "acompanhamentos": "Arroz Branco, Arroz integral, Feijão Carioca",
     "sobremesa": "Laranja",
+    "ceia_pao":"Pão com margarina",
+    "ceia_salada_1":"",
+    "ceia_salada_2":"",
+    "ceia_sobremesa":"",
+    "ceia_sopa":"",
     "disponivel": "sim"
   },
   {
@@ -62,6 +82,11 @@
     "guarnicao": "Virado de couve",
     "acompanhamentos": "Arroz Branco, Arroz integral, Feijão Carioca",
     "sobremesa": "Maçã",
+    "ceia_pao":"Pão com margarina",
+    "ceia_salada_1":"",
+    "ceia_salada_2":"",
+    "ceia_sobremesa":"",
+    "ceia_sopa":"",
     "disponivel": "sim"
   },
   {
@@ -75,6 +100,11 @@
     "guarnicao": "Batata sauté",
     "acompanhamentos": "Arroz Branco, Arroz integral, Feijão Carioca",
     "sobremesa": "Banana",
+    "ceia_pao":"Pão com margarina",
+    "ceia_salada_1":"",
+    "ceia_salada_2":"",
+    "ceia_sobremesa":"",
+    "ceia_sopa":"",
     "disponivel": "não"
   },
   {
@@ -88,6 +118,11 @@
     "guarnicao": "Macarrão ao molho a parte",
     "acompanhamentos": "Arroz Branco, Arroz integral, Feijão Carioca",
     "sobremesa": "Pera",
+    "ceia_pao":"Pão com margarina",
+    "ceia_salada_1":"",
+    "ceia_salada_2":"",
+    "ceia_sobremesa":"",
+    "ceia_sopa":"",
     "disponivel": "sim"
   }
 ]
