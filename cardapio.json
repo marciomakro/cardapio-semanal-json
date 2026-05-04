@@ -4,7 +4,7 @@
     "dia_semana": "Segunda-feira",
     "sopa": "",
     "salada_1": "Repolho roxo",
-    "salada_2": "Feijão branco ao vinagrete",
+    "salada_2": "alface",
     "prato_principal": "Proteina de soja gratinada",
     "opcao": "Ovo frito",
     "guarnicao": "Mix de legumes sauté",
@@ -13,8 +13,8 @@
     "ceia_pao":"Pão com margarina",
     "ceia_salada_1":"legumes",
     "ceia_salada_2":"",
-    "ceia_sobremesa":"",
-    "ceia_sopa":"feijão",
+    "ceia_sobremesa":"laranja",
+    "ceia_sopa":"",
     "disponivel": "sim",
     "cardapio_especial":""
   },
@@ -35,7 +35,7 @@
     "ceia_sobremesa":"",
     "ceia_sopa":"",
     "disponivel": "sim",
-    "cardapio_especial":"Feijoada"
+    "cardapio_especial":""
   },
   {
     "id": 3,
@@ -130,6 +130,6 @@
     "ceia_sobremesa":"",
     "ceia_sopa":"",
     "disponivel": "sim",
-    "cardapio_especial":""
+    "cardapio_especial":"Dia das mães"
   }
 ]
