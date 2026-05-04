@@ -16,7 +16,7 @@
     "ceia_sobremesa":"",
     "ceia_sopa":"",
     "disponivel": "sim",
-    "cardapio_especial":""
+    "cardapio_especial":"Cardapio dia das mães"
   },
   {
     "id": 2,
@@ -111,7 +111,7 @@
     "ceia_sobremesa":"",
     "ceia_sopa":"",
     "disponivel": "sim",
-    "cardapio_especial":"Dia das Mães"
+    "cardapio_especial":""
   },
   {
     "id": 0,
