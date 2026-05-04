@@ -11,10 +11,10 @@
     "acompanhamentos": "Arroz Branco, Arroz integral, Feijão Carioca",
     "sobremesa": "Mexerica",
     "ceia_pao":"Pão com margarina",
-    "ceia_salada_1":"",
+    "ceia_salada_1":"legumes",
     "ceia_salada_2":"",
     "ceia_sobremesa":"",
-    "ceia_sopa":"",
+    "ceia_sopa":"feijão",
     "disponivel": "sim",
     "cardapio_especial":""
   },
@@ -35,7 +35,7 @@
     "ceia_sobremesa":"",
     "ceia_sopa":"",
     "disponivel": "sim",
-    "cardapio_especial":""
+    "cardapio_especial":"Feijoada"
   },
   {
     "id": 3,
