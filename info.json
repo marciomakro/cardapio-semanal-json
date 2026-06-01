@@ -1,6 +1,6 @@
 {
   "id": 1,
-  "info_titulo": "Título da Informação",
-  "info_descricao": "Descrição que será exibida na página.",
-  "info_mostrar": "nao"
+  "info_titulo": "Atenção na Reciclagem",
+  "info_descricao": "Descarte os recicláveis nos tambores corretos.",
+  "info_mostrar": "sim"
 }
