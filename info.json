@@ -1,6 +1,6 @@
 {
   "id": 1,
-  "info_titulo": "Atenção na Reciclagem",
-  "info_descricao": "Descarte os recicláveis nos tambores corretos.",
-  "info_mostrar": "nao"
+  "info_titulo": "Atenção no Descarte dos Alimentos",
+  "info_descricao": "Descarte os alimentos nos tambores corretos.",
+  "info_mostrar": "sim"
 }
