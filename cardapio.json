@@ -72,8 +72,8 @@
     "ceia_salada_2":"",
     "ceia_sobremesa":"",
     "ceia_sopa":"",
-    "disponivel": "não",
-    "cardapio_especial":""
+    "disponivel": "sim",
+    "cardapio_especial":"Dia das mães"
   },
   {
     "id": 5,
