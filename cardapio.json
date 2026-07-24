@@ -16,7 +16,7 @@
     "ceia_sobremesa":"laranja",
     "ceia_sopa":"",
     "disponivel": "sim",
-    "cardapio_especial":"Cárdapio Semana do profissional da sáude"
+    "cardapio_especial":"Semana do profissional da sáude"
   },
   {
     "id": 2,
@@ -81,9 +81,9 @@
     "sopa": "",
     "salada_1": "REPOLHO/MACARRONESE",
     "salada_2": "",
-    "prato_principal": "KIBE DE CARNE(RECHEIO QUEIJO/REQUEIJÃO)",
+    "prato_principal": "ALMÔNDEGAS AO SUGO",
     "opcao": "OVO COZIDO / PROTEÍNA DE SOJA REFOGADA",
-    "guarnicao": "BATATA SAUTÉ",
+    "guarnicao": "MACARRÃO AO ALHO E ÓLEO",
     "acompanhamentos": "ARROZ BRANCO / ARROZ INTEGRAL / FEIJÃO CARIOCA",
     "sobremesa": "LARANJA",
     "ceia_pao":"Pão com margarina",
