@@ -16,7 +16,7 @@
     "ceia_sobremesa":"laranja",
     "ceia_sopa":"",
     "disponivel": "sim",
-    "cardapio_especial":"Semana do profissional da sáude"
+    "cardapio_especial":""
   },
   {
     "id": 2,
@@ -73,7 +73,7 @@
     "ceia_sobremesa":"",
     "ceia_sopa":"",
     "disponivel": "sim",
-    "cardapio_especial":"Dia das mães"
+    "cardapio_especial":""
   },
   {
     "id": 5,
