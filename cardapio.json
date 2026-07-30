@@ -60,13 +60,13 @@
     "id": 4,
     "dia_semana": "Quinta-feira",
     "sopa": "",
-    "salada_1": "Mix de repolho",
-    "salada_2": "Chuchu ao vinagrete",
-    "prato_principal": "Carne moída rica",
-    "opcao": "Ovo cozido/PTS",
-    "guarnicao": "Purê de batatas",
+    "salada_1": "MIX DE REPOLHO / BETERRABA COZIDA",
+    "salada_2": "",
+    "prato_principal": "FRANGO EM CUBOS ACEBOLADO",
+    "opcao": "OVO COZIDO / PROTEÍNA DE SOJA REFOGADA",
+    "guarnicao": "CREME DE MILHO",
     "acompanhamentos": "Arroz Branco, Arroz integral, Feijão Carioca",
-    "sobremesa": "Laranja",
+    "sobremesa": "MAÇÃ",
     "ceia_pao":"Pão com margarina",
     "ceia_salada_1":"",
     "ceia_salada_2":"",
@@ -129,7 +129,7 @@
     "ceia_salada_2":"",
     "ceia_sobremesa":"",
     "ceia_sopa":"",
-    "disponivel": "não",
+    "disponivel": "sim",
     "cardapio_especial":""
   }
 ]
