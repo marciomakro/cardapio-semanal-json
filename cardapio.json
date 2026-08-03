@@ -2,7 +2,7 @@
   {
     "id": 1,
     "dia_semana": "Segunda-feira",
-    "sopa": "",
+    "sopa": "Sopa Lentilha",
     "salada_1": "REPOLHO",
     "salada_2": "",
     "prato_principal": "PROTEÍNA DE SOJA GRATINADA",
@@ -15,7 +15,7 @@
     "ceia_salada_1":"",
     "ceia_salada_2":"",
     "ceia_sobremesa":"",
-    "ceia_sopa":"",
+    "ceia_sopa":"feijão",
     "disponivel": "sim",
     "cardapio_especial":""
   },
