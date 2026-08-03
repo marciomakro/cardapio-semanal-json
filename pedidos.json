@@ -15,7 +15,7 @@
       {
         "id": "jantar",
         "nome": "Jantar",
-        "horario_limite": "18:50",
+        "horario_limite": "18:30",
         "ativo": true
       }
     ]
