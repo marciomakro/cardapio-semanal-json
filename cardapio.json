@@ -15,7 +15,7 @@
     "ceia_salada_1":"",
     "ceia_salada_2":"",
     "ceia_sobremesa":"",
-    "ceia_sopa":"",
+    "ceia_sopa":"Legumes com macarrão",
     "disponivel": "sim",
     "cardapio_especial":""
   },
@@ -35,7 +35,7 @@
     "ceia_salada_1":"",
     "ceia_salada_2":"",
     "ceia_sobremesa":"",
-    "ceia_sopa":"",
+    "ceia_sopa":"sopa de grão de bico",
     "disponivel": "sim",
     "cardapio_especial":""
   },
@@ -55,7 +55,7 @@
     "ceia_salada_1":"",
     "ceia_salada_2":"",
     "ceia_sobremesa":"",
-    "ceia_sopa":"",
+    "ceia_sopa":"sopa de feijão",
     "disponivel": "sim",
     "cardapio_especial":""
   },
@@ -75,7 +75,7 @@
     "ceia_salada_1":"",
     "ceia_salada_2":"",
     "ceia_sobremesa":"",
-    "ceia_sopa":"",
+    "ceia_sopa":"sopa de lentilha",
     "disponivel": "sim",
     "cardapio_especial":""
   },
@@ -95,7 +95,7 @@
     "ceia_salada_1":"",
     "ceia_salada_2":"",
     "ceia_sobremesa":"",
-    "ceia_sopa":"",
+    "ceia_sopa":"sopa de ervilha",
     "disponivel": "sim",
     "cardapio_especial":""
   },
@@ -115,7 +115,7 @@
     "ceia_salada_1":"",
     "ceia_salada_2":"",
     "ceia_sobremesa":"",
-    "ceia_sopa":"",
+    "ceia_sopa":"creme de mandioca",
     "disponivel": "sim",
     "cardapio_especial":""
   },
@@ -135,7 +135,7 @@
     "ceia_salada_1":"",
     "ceia_salada_2":"",
     "ceia_sobremesa":"",
-    "ceia_sopa":"",
+    "ceia_sopa":"canja",
     "disponivel": "sim",
     "cardapio_especial":""
   }
