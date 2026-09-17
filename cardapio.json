@@ -1,4 +1,4 @@
-[
+ [
   {
     "id": 1,
     "dia_semana": "Segunda-feira",
@@ -63,7 +63,7 @@
     "id": 4,
     "dia_semana": "Quinta-feira",
     "sopa": "",
-    "salada_1": "Couve fatiada",
+    "salada_1": "Acelga fatiada",
     "salada_2": "Beterraba cozida com milho",
     "prato_principal": "Strogonoff de carne",
     "opcao": "OVO COZIDO",
