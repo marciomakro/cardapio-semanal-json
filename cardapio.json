@@ -43,7 +43,7 @@
     "id": 3,
     "dia_semana": "Quarta-feira",
     "sopa": "",
-    "salada_1": "Alface",
+    "salada_1": "Repolho",
     "salada_2": "Maionese",
     "prato_principal": "Espeto misto",
     "opcao": "OVO COZIDO",
@@ -55,7 +55,7 @@
     "ceia_salada_1":"",
     "ceia_salada_2":"",
     "ceia_sobremesa":"",
-    "ceia_sopa":"Creme de mandioca com frango",
+    "ceia_sopa":"Creme de mandioca",
     "disponivel": "sim",
     "cardapio_especial":""
   },
