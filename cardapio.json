@@ -77,7 +77,7 @@
     "ceia_sobremesa":"",
     "ceia_sopa":"Sopa de lentilha",
     "disponivel": "sim",
-    "cardapio_especial":""
+    "cardapio_especial":"Dia do combate ao AVC"
   },
   {
     "id": 5,
@@ -97,7 +97,7 @@
     "ceia_sobremesa":"",
     "ceia_sopa":"Sopa de ervilha",
     "disponivel": "sim",
-    "cardapio_especial":""
+    "cardapio_especial":"Dia do combate ao AVC"
   },
   {
     "id": 6,
