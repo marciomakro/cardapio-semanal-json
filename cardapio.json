@@ -77,7 +77,7 @@
     "ceia_sobremesa":"",
     "ceia_sopa":"Sopa de Legumes com carne",
     "disponivel": "sim",
-    "cardapio_especial":""
+    "cardapio_especial":"Comemoração Planetree"
   },
   {
     "id": 5,
@@ -85,11 +85,11 @@
     "sopa": "",
     "salada_1": "Caponata de berinjela",
     "salada_2": "Couve",
-    "prato_principal": "Largato recheado com cenoura",
+    "prato_principal": "Kibe de carne moída recheado",
     "opcao": "OVO COZIDO",
     "opcao_vegetariana": "PROTEÍNA DE SOJA",
     "guarnicao": "Macarrão ao alho e óleo",
-    "acompanhamentos": "Arroz branco, Arroz integral  e  F. preto",
+    "acompanhamentos": "Arroz branco, Arroz integral  e  F. carioca",
     "sobremesa": "Tangerina",
     "ceia_pao":"Pão com margarina",
     "ceia_salada_1":"",
@@ -109,7 +109,7 @@
     "opcao": "Ovo cozido",
     "opcao_vegetariana": "PROTEÍNA DE SOJA",
     "guarnicao": "Creme de milho",
-    "acompanhamentos": "Arroz Branco, Arroz integral, Feijão preto",
+    "acompanhamentos": "Arroz Branco, Arroz integral, Feijão carioca",
     "sobremesa": "Maçã",
     "ceia_pao":"Pão com margarina",
     "ceia_salada_1":"",
